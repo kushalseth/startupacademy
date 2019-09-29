@@ -7,3 +7,5 @@ Purpose of creating this repository is to write and link the entrepreneurs of Yo
 
 # Kushal Seth 
 - Link to Profile Card: https://github.com/KushalGH/startupacademy/blob/master/kushalseth.html
+
+![picture](https://github.com/KushalGH/startupacademy/blob/master/kushalseth.JPG)
